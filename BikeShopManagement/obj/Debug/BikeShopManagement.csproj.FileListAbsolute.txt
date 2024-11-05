@@ -1,0 +1,164 @@
+C:\Users\meljo\source\repos\BikeShopManagement\BikeShopManagement\bin\Debug\BikeShopManagement.exe.config
+C:\Users\meljo\source\repos\BikeShopManagement\BikeShopManagement\bin\Debug\BikeShopManagement.exe
+C:\Users\meljo\source\repos\BikeShopManagement\BikeShopManagement\bin\Debug\BikeShopManagement.pdb
+C:\Users\meljo\source\repos\BikeShopManagement\BikeShopManagement\obj\Debug\BikeShopManagement.csproj.AssemblyReference.cache
+C:\Users\meljo\source\repos\BikeShopManagement\BikeShopManagement\obj\Debug\BikeShopManagement.Form1.resources
+C:\Users\meljo\source\repos\BikeShopManagement\BikeShopManagement\obj\Debug\BikeShopManagement.Properties.Resources.resources
+C:\Users\meljo\source\repos\BikeShopManagement\BikeShopManagement\obj\Debug\BikeShopManagement.csproj.GenerateResource.cache
+C:\Users\meljo\source\repos\BikeShopManagement\BikeShopManagement\obj\Debug\BikeShopManagement.csproj.CoreCompileInputs.cache
+C:\Users\meljo\source\repos\BikeShopManagement\BikeShopManagement\obj\Debug\BikeShopManagement.exe
+C:\Users\meljo\source\repos\BikeShopManagement\BikeShopManagement\obj\Debug\BikeShopManagement.pdb
+C:\Users\meljo\source\repos\BikeShopManagement\BikeShopManagement\obj\Debug\BikeShopManagement.InventoryManagement.resources
+C:\Users\meljo\source\repos\BikeShopManagement\BikeShopManagement\obj\Debug\BikeShopManagement.ProductForm.resources
+C:\Users\meljo\source\repos\BikeShopManagement\BikeShopManagement\obj\Debug\BikeShopManagement.StockForm.resources
+C:\Users\Admin\Downloads\BikeShopManagement (1)\BikeShopManagement\bin\Debug\BikeShopManagement.exe.config
+C:\Users\Admin\Downloads\BikeShopManagement (1)\BikeShopManagement\bin\Debug\BikeShopManagement.exe
+C:\Users\Admin\Downloads\BikeShopManagement (1)\BikeShopManagement\bin\Debug\BikeShopManagement.pdb
+C:\Users\Admin\Downloads\BikeShopManagement (1)\BikeShopManagement\obj\Debug\BikeShopManagement.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\BikeShopManagement (1)\BikeShopManagement\obj\Debug\BikeShopManagement.Form1.resources
+C:\Users\Admin\Downloads\BikeShopManagement (1)\BikeShopManagement\obj\Debug\BikeShopManagement.InventoryManagement.resources
+C:\Users\Admin\Downloads\BikeShopManagement (1)\BikeShopManagement\obj\Debug\BikeShopManagement.Properties.Resources.resources
+C:\Users\Admin\Downloads\BikeShopManagement (1)\BikeShopManagement\obj\Debug\BikeShopManagement.ProductForm.resources
+C:\Users\Admin\Downloads\BikeShopManagement (1)\BikeShopManagement\obj\Debug\BikeShopManagement.StockForm.resources
+C:\Users\Admin\Downloads\BikeShopManagement (1)\BikeShopManagement\obj\Debug\BikeShopManagement.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\BikeShopManagement (1)\BikeShopManagement\obj\Debug\BikeShopManagement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\BikeShopManagement (1)\BikeShopManagement\obj\Debug\BikeShopManagement.exe
+C:\Users\Admin\Downloads\BikeShopManagement (1)\BikeShopManagement\obj\Debug\BikeShopManagement.pdb
+C:\Users\Admin\Downloads\BikeShopManagement (1)\BikeShopManagement\obj\Debug\BikeShopManagement.SalesReport.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\OneDrive_2024-10-05\BikeShopManagement (2)\BikeShopManagement\bin\Debug\BikeShopManagement.exe.config
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\OneDrive_2024-10-05\BikeShopManagement (2)\BikeShopManagement\bin\Debug\BikeShopManagement.exe
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\OneDrive_2024-10-05\BikeShopManagement (2)\BikeShopManagement\bin\Debug\BikeShopManagement.pdb
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\OneDrive_2024-10-05\BikeShopManagement (2)\BikeShopManagement\obj\Debug\BikeShopManagement.csproj.AssemblyReference.cache
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\OneDrive_2024-10-05\BikeShopManagement (2)\BikeShopManagement\obj\Debug\BikeShopManagement.Form1.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\OneDrive_2024-10-05\BikeShopManagement (2)\BikeShopManagement\obj\Debug\BikeShopManagement.InventoryManagement.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\OneDrive_2024-10-05\BikeShopManagement (2)\BikeShopManagement\obj\Debug\BikeShopManagement.Properties.Resources.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\OneDrive_2024-10-05\BikeShopManagement (2)\BikeShopManagement\obj\Debug\BikeShopManagement.ProductForm.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\OneDrive_2024-10-05\BikeShopManagement (2)\BikeShopManagement\obj\Debug\BikeShopManagement.SalesReport.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\OneDrive_2024-10-05\BikeShopManagement (2)\BikeShopManagement\obj\Debug\BikeShopManagement.StockForm.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\OneDrive_2024-10-05\BikeShopManagement (2)\BikeShopManagement\obj\Debug\BikeShopManagement.csproj.GenerateResource.cache
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\OneDrive_2024-10-05\BikeShopManagement (2)\BikeShopManagement\obj\Debug\BikeShopManagement.csproj.CoreCompileInputs.cache
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\OneDrive_2024-10-05\BikeShopManagement (2)\BikeShopManagement\obj\Debug\BikeShopManagement.exe
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\OneDrive_2024-10-05\BikeShopManagement (2)\BikeShopManagement\obj\Debug\BikeShopManagement.pdb
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\OneDrive_2024-10-05\BikeShopManagement (2)\BikeShopManagement\obj\Debug\BikeShopManagement.login.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\OneDrive_2024-10-05\BikeShopManagement (2)\BikeShopManagement\obj\Debug\BikeShopManagement.registration.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\OneDrive_2024-10-05\BikeShopManagement (2)\BikeShopManagement\obj\Debug\BikeShopManagement.dashboard.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\OneDrive_2024-10-05\BikeShopManagement (2)\BikeShopManagement\obj\Debug\BikeShopManagement.UserControl1.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\OneDrive_2024-10-05\BikeShopManagement (2)\BikeShopManagement\obj\Debug\BikeShopManagement.Reports.resources
+C:\Users\meljo\Downloads\OneDrive_2024-10-07\BikeShopManagement (3)\BikeShopManagement\bin\Debug\BikeShopManagement.exe.config
+C:\Users\meljo\Downloads\OneDrive_2024-10-07\BikeShopManagement (3)\BikeShopManagement\bin\Debug\BikeShopManagement.exe
+C:\Users\meljo\Downloads\OneDrive_2024-10-07\BikeShopManagement (3)\BikeShopManagement\bin\Debug\BikeShopManagement.pdb
+C:\Users\meljo\Downloads\OneDrive_2024-10-07\BikeShopManagement (3)\BikeShopManagement\obj\Debug\BikeShopManagement.csproj.AssemblyReference.cache
+C:\Users\meljo\Downloads\OneDrive_2024-10-07\BikeShopManagement (3)\BikeShopManagement\obj\Debug\BikeShopManagement.dashboard.resources
+C:\Users\meljo\Downloads\OneDrive_2024-10-07\BikeShopManagement (3)\BikeShopManagement\obj\Debug\BikeShopManagement.Form1.resources
+C:\Users\meljo\Downloads\OneDrive_2024-10-07\BikeShopManagement (3)\BikeShopManagement\obj\Debug\BikeShopManagement.InventoryManagement.resources
+C:\Users\meljo\Downloads\OneDrive_2024-10-07\BikeShopManagement (3)\BikeShopManagement\obj\Debug\BikeShopManagement.Login.resources
+C:\Users\meljo\Downloads\OneDrive_2024-10-07\BikeShopManagement (3)\BikeShopManagement\obj\Debug\BikeShopManagement.Properties.Resources.resources
+C:\Users\meljo\Downloads\OneDrive_2024-10-07\BikeShopManagement (3)\BikeShopManagement\obj\Debug\BikeShopManagement.ProductForm.resources
+C:\Users\meljo\Downloads\OneDrive_2024-10-07\BikeShopManagement (3)\BikeShopManagement\obj\Debug\BikeShopManagement.Registration.resources
+C:\Users\meljo\Downloads\OneDrive_2024-10-07\BikeShopManagement (3)\BikeShopManagement\obj\Debug\BikeShopManagement.Reports.resources
+C:\Users\meljo\Downloads\OneDrive_2024-10-07\BikeShopManagement (3)\BikeShopManagement\obj\Debug\BikeShopManagement.SalesReport.resources
+C:\Users\meljo\Downloads\OneDrive_2024-10-07\BikeShopManagement (3)\BikeShopManagement\obj\Debug\BikeShopManagement.StockForm.resources
+C:\Users\meljo\Downloads\OneDrive_2024-10-07\BikeShopManagement (3)\BikeShopManagement\obj\Debug\BikeShopManagement.UserControl1.resources
+C:\Users\meljo\Downloads\OneDrive_2024-10-07\BikeShopManagement (3)\BikeShopManagement\obj\Debug\BikeShopManagement.csproj.GenerateResource.cache
+C:\Users\meljo\Downloads\OneDrive_2024-10-07\BikeShopManagement (3)\BikeShopManagement\obj\Debug\BikeShopManagement.csproj.CoreCompileInputs.cache
+C:\Users\meljo\Downloads\OneDrive_2024-10-07\BikeShopManagement (3)\BikeShopManagement\obj\Debug\BikeShopManagement.exe
+C:\Users\meljo\Downloads\OneDrive_2024-10-07\BikeShopManagement (3)\BikeShopManagement\obj\Debug\BikeShopManagement.pdb
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\OneDrive_2024-10-08\BikeShopManagement (3) (1)\BikeShopManagement\obj\Debug\BikeShopManagement.csproj.AssemblyReference.cache
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\OneDrive_2024-10-08\BikeShopManagement (3) (1)\BikeShopManagement\obj\Debug\BikeShopManagement.exe
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\OneDrive_2024-10-08\BikeShopManagement (3) (1)\BikeShopManagement\obj\Debug\BikeShopManagement.pdb
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\OneDrive_2024-10-08\BikeShopManagement (3) (1)\BikeShopManagement\bin\Debug\BikeShopManagement.exe.config
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\OneDrive_2024-10-08\BikeShopManagement (3) (1)\BikeShopManagement\bin\Debug\BikeShopManagement.exe
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\OneDrive_2024-10-08\BikeShopManagement (3) (1)\BikeShopManagement\bin\Debug\BikeShopManagement.pdb
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\OneDrive_2024-10-08\BikeShopManagement (3) (1)\BikeShopManagement\obj\Debug\BikeShopManagement.dashboard.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\OneDrive_2024-10-08\BikeShopManagement (3) (1)\BikeShopManagement\obj\Debug\BikeShopManagement.Form1.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\OneDrive_2024-10-08\BikeShopManagement (3) (1)\BikeShopManagement\obj\Debug\BikeShopManagement.InventoryManagement.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\OneDrive_2024-10-08\BikeShopManagement (3) (1)\BikeShopManagement\obj\Debug\BikeShopManagement.Login.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\OneDrive_2024-10-08\BikeShopManagement (3) (1)\BikeShopManagement\obj\Debug\BikeShopManagement.Properties.Resources.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\OneDrive_2024-10-08\BikeShopManagement (3) (1)\BikeShopManagement\obj\Debug\BikeShopManagement.ProductForm.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\OneDrive_2024-10-08\BikeShopManagement (3) (1)\BikeShopManagement\obj\Debug\BikeShopManagement.Registration.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\OneDrive_2024-10-08\BikeShopManagement (3) (1)\BikeShopManagement\obj\Debug\BikeShopManagement.Reports.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\OneDrive_2024-10-08\BikeShopManagement (3) (1)\BikeShopManagement\obj\Debug\BikeShopManagement.SalesReport.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\OneDrive_2024-10-08\BikeShopManagement (3) (1)\BikeShopManagement\obj\Debug\BikeShopManagement.StockForm.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\OneDrive_2024-10-08\BikeShopManagement (3) (1)\BikeShopManagement\obj\Debug\BikeShopManagement.UserControl1.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\OneDrive_2024-10-08\BikeShopManagement (3) (1)\BikeShopManagement\obj\Debug\BikeShopManagement.csproj.GenerateResource.cache
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\OneDrive_2024-10-08\BikeShopManagement (3) (1)\BikeShopManagement\obj\Debug\BikeShopManagement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\BikeShopManagement (4)\BikeShopManagement\obj\Debug\BikeShopManagement.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\BikeShopManagement (4)\BikeShopManagement\obj\Debug\BikeShopManagement.exe
+C:\Users\Admin\Downloads\BikeShopManagement (4)\BikeShopManagement\obj\Debug\BikeShopManagement.pdb
+C:\Users\Admin\Downloads\BikeShopManagement (4)\BikeShopManagement\bin\Debug\BikeShopManagement.exe.config
+C:\Users\Admin\Downloads\BikeShopManagement (4)\BikeShopManagement\bin\Debug\BikeShopManagement.exe
+C:\Users\Admin\Downloads\BikeShopManagement (4)\BikeShopManagement\bin\Debug\BikeShopManagement.pdb
+C:\Users\Admin\Downloads\BikeShopManagement (4)\BikeShopManagement\obj\Debug\BikeShopManagement.dashboard.resources
+C:\Users\Admin\Downloads\BikeShopManagement (4)\BikeShopManagement\obj\Debug\BikeShopManagement.Form1.resources
+C:\Users\Admin\Downloads\BikeShopManagement (4)\BikeShopManagement\obj\Debug\BikeShopManagement.InventoryManagement.resources
+C:\Users\Admin\Downloads\BikeShopManagement (4)\BikeShopManagement\obj\Debug\BikeShopManagement.Login.resources
+C:\Users\Admin\Downloads\BikeShopManagement (4)\BikeShopManagement\obj\Debug\BikeShopManagement.Properties.Resources.resources
+C:\Users\Admin\Downloads\BikeShopManagement (4)\BikeShopManagement\obj\Debug\BikeShopManagement.ProductForm.resources
+C:\Users\Admin\Downloads\BikeShopManagement (4)\BikeShopManagement\obj\Debug\BikeShopManagement.Registration.resources
+C:\Users\Admin\Downloads\BikeShopManagement (4)\BikeShopManagement\obj\Debug\BikeShopManagement.Reports.resources
+C:\Users\Admin\Downloads\BikeShopManagement (4)\BikeShopManagement\obj\Debug\BikeShopManagement.SalesReport.resources
+C:\Users\Admin\Downloads\BikeShopManagement (4)\BikeShopManagement\obj\Debug\BikeShopManagement.StockForm.resources
+C:\Users\Admin\Downloads\BikeShopManagement (4)\BikeShopManagement\obj\Debug\BikeShopManagement.UserControl1.resources
+C:\Users\Admin\Downloads\BikeShopManagement (4)\BikeShopManagement\obj\Debug\BikeShopManagement.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\BikeShopManagement (4)\BikeShopManagement\obj\Debug\BikeShopManagement.csproj.CoreCompileInputs.cache
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\1-2- OneDrive_2024-10-12\BikeShopManagement (5)\BikeShopManagement\obj\Debug\BikeShopManagement.csproj.AssemblyReference.cache
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\1-2- OneDrive_2024-10-12\BikeShopManagement (5)\BikeShopManagement\obj\Debug\BikeShopManagement.exe
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\1-2- OneDrive_2024-10-12\BikeShopManagement (5)\BikeShopManagement\obj\Debug\BikeShopManagement.pdb
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\1-2- OneDrive_2024-10-12\BikeShopManagement (5)\BikeShopManagement\bin\Debug\BikeShopManagement.exe.config
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\1-2- OneDrive_2024-10-12\BikeShopManagement (5)\BikeShopManagement\bin\Debug\BikeShopManagement.exe
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\1-2- OneDrive_2024-10-12\BikeShopManagement (5)\BikeShopManagement\bin\Debug\BikeShopManagement.pdb
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\1-2- OneDrive_2024-10-12\BikeShopManagement (5)\BikeShopManagement\obj\Debug\BikeShopManagement.dashboard.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\1-2- OneDrive_2024-10-12\BikeShopManagement (5)\BikeShopManagement\obj\Debug\BikeShopManagement.Form1.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\1-2- OneDrive_2024-10-12\BikeShopManagement (5)\BikeShopManagement\obj\Debug\BikeShopManagement.InventoryManagement.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\1-2- OneDrive_2024-10-12\BikeShopManagement (5)\BikeShopManagement\obj\Debug\BikeShopManagement.Properties.Resources.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\1-2- OneDrive_2024-10-12\BikeShopManagement (5)\BikeShopManagement\obj\Debug\BikeShopManagement.ProductForm.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\1-2- OneDrive_2024-10-12\BikeShopManagement (5)\BikeShopManagement\obj\Debug\BikeShopManagement.Registration.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\1-2- OneDrive_2024-10-12\BikeShopManagement (5)\BikeShopManagement\obj\Debug\BikeShopManagement.Reports.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\1-2- OneDrive_2024-10-12\BikeShopManagement (5)\BikeShopManagement\obj\Debug\BikeShopManagement.login.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\1-2- OneDrive_2024-10-12\BikeShopManagement (5)\BikeShopManagement\obj\Debug\BikeShopManagement.SalesReport.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\1-2- OneDrive_2024-10-12\BikeShopManagement (5)\BikeShopManagement\obj\Debug\BikeShopManagement.StockForm.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\1-2- OneDrive_2024-10-12\BikeShopManagement (5)\BikeShopManagement\obj\Debug\BikeShopManagement.UserControl1.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\1-2- OneDrive_2024-10-12\BikeShopManagement (5)\BikeShopManagement\obj\Debug\BikeShopManagement.csproj.GenerateResource.cache
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\1-2- OneDrive_2024-10-12\BikeShopManagement (5)\BikeShopManagement\obj\Debug\BikeShopManagement.csproj.CoreCompileInputs.cache
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\1-2- OneDrive_2024-10-12\BikeShopManagement (Final)\BikeShopManagement\bin\Debug\BikeShopManagement.exe.config
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\1-2- OneDrive_2024-10-12\BikeShopManagement (Final)\BikeShopManagement\bin\Debug\BikeShopManagement.exe
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\1-2- OneDrive_2024-10-12\BikeShopManagement (Final)\BikeShopManagement\bin\Debug\BikeShopManagement.pdb
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\1-2- OneDrive_2024-10-12\BikeShopManagement (Final)\BikeShopManagement\obj\Debug\BikeShopManagement.csproj.AssemblyReference.cache
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\1-2- OneDrive_2024-10-12\BikeShopManagement (Final)\BikeShopManagement\obj\Debug\BikeShopManagement.dashboard.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\1-2- OneDrive_2024-10-12\BikeShopManagement (Final)\BikeShopManagement\obj\Debug\BikeShopManagement.Form1.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\1-2- OneDrive_2024-10-12\BikeShopManagement (Final)\BikeShopManagement\obj\Debug\BikeShopManagement.InventoryManagement.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\1-2- OneDrive_2024-10-12\BikeShopManagement (Final)\BikeShopManagement\obj\Debug\BikeShopManagement.Properties.Resources.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\1-2- OneDrive_2024-10-12\BikeShopManagement (Final)\BikeShopManagement\obj\Debug\BikeShopManagement.ProductForm.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\1-2- OneDrive_2024-10-12\BikeShopManagement (Final)\BikeShopManagement\obj\Debug\BikeShopManagement.Registration.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\1-2- OneDrive_2024-10-12\BikeShopManagement (Final)\BikeShopManagement\obj\Debug\BikeShopManagement.Reports.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\1-2- OneDrive_2024-10-12\BikeShopManagement (Final)\BikeShopManagement\obj\Debug\BikeShopManagement.login.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\1-2- OneDrive_2024-10-12\BikeShopManagement (Final)\BikeShopManagement\obj\Debug\BikeShopManagement.SalesReport.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\1-2- OneDrive_2024-10-12\BikeShopManagement (Final)\BikeShopManagement\obj\Debug\BikeShopManagement.StockForm.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\1-2- OneDrive_2024-10-12\BikeShopManagement (Final)\BikeShopManagement\obj\Debug\BikeShopManagement.UserControl1.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\1-2- OneDrive_2024-10-12\BikeShopManagement (Final)\BikeShopManagement\obj\Debug\BikeShopManagement.csproj.GenerateResource.cache
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\1-2- OneDrive_2024-10-12\BikeShopManagement (Final)\BikeShopManagement\obj\Debug\BikeShopManagement.csproj.CoreCompileInputs.cache
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\1-2- OneDrive_2024-10-12\BikeShopManagement (Final)\BikeShopManagement\obj\Debug\BikeShopManagement.exe
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\1-2- OneDrive_2024-10-12\BikeShopManagement (Final)\BikeShopManagement\obj\Debug\BikeShopManagement.pdb
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\BikeShopManagement (Final)\BikeShopManagement (Final)\BikeShopManagement\bin\Debug\BikeShopManagement.exe.config
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\BikeShopManagement (Final)\BikeShopManagement (Final)\BikeShopManagement\bin\Debug\BikeShopManagement.exe
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\BikeShopManagement (Final)\BikeShopManagement (Final)\BikeShopManagement\bin\Debug\BikeShopManagement.pdb
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\BikeShopManagement (Final)\BikeShopManagement (Final)\BikeShopManagement\obj\Debug\BikeShopManagement.csproj.AssemblyReference.cache
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\BikeShopManagement (Final)\BikeShopManagement (Final)\BikeShopManagement\obj\Debug\BikeShopManagement.dashboard.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\BikeShopManagement (Final)\BikeShopManagement (Final)\BikeShopManagement\obj\Debug\BikeShopManagement.Form1.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\BikeShopManagement (Final)\BikeShopManagement (Final)\BikeShopManagement\obj\Debug\BikeShopManagement.InventoryManagement.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\BikeShopManagement (Final)\BikeShopManagement (Final)\BikeShopManagement\obj\Debug\BikeShopManagement.Properties.Resources.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\BikeShopManagement (Final)\BikeShopManagement (Final)\BikeShopManagement\obj\Debug\BikeShopManagement.ProductForm.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\BikeShopManagement (Final)\BikeShopManagement (Final)\BikeShopManagement\obj\Debug\BikeShopManagement.Registration.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\BikeShopManagement (Final)\BikeShopManagement (Final)\BikeShopManagement\obj\Debug\BikeShopManagement.Reports.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\BikeShopManagement (Final)\BikeShopManagement (Final)\BikeShopManagement\obj\Debug\BikeShopManagement.login.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\BikeShopManagement (Final)\BikeShopManagement (Final)\BikeShopManagement\obj\Debug\BikeShopManagement.SalesReport.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\BikeShopManagement (Final)\BikeShopManagement (Final)\BikeShopManagement\obj\Debug\BikeShopManagement.StockForm.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\BikeShopManagement (Final)\BikeShopManagement (Final)\BikeShopManagement\obj\Debug\BikeShopManagement.UserControl1.resources
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\BikeShopManagement (Final)\BikeShopManagement (Final)\BikeShopManagement\obj\Debug\BikeShopManagement.csproj.GenerateResource.cache
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\BikeShopManagement (Final)\BikeShopManagement (Final)\BikeShopManagement\obj\Debug\BikeShopManagement.csproj.CoreCompileInputs.cache
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\BikeShopManagement (Final)\BikeShopManagement (Final)\BikeShopManagement\obj\Debug\BikeShopManagement.exe
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\BikeShopManagement (Final)\BikeShopManagement (Final)\BikeShopManagement\obj\Debug\BikeShopManagement.pdb
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\BikeShopManagement (Final)\BikeShopManagement (Final)\BikeShopManagement\bin\Debug\BikeShopManagement.exe.manifest
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\BikeShopManagement (Final)\BikeShopManagement (Final)\BikeShopManagement\bin\Debug\BikeShopManagement.application
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\BikeShopManagement (Final)\BikeShopManagement (Final)\BikeShopManagement\obj\Debug\BikeShopManagement.exe.manifest
+C:\Users\Jhouvann\OneDrive\Desktop\College\2ND YEAR\OOP\BikeShopManagement (Final)\BikeShopManagement (Final)\BikeShopManagement\obj\Debug\BikeShopManagement.application
